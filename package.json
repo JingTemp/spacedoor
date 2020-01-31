@@ -1,0 +1,19 @@
+{
+  "name": "spacedoor",
+  "version": "1.0.0",
+  "description": "nodejs practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JingTemp/spacedoor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JingTemp/spacedoor/issues"
+  },
+  "homepage": "https://github.com/JingTemp/spacedoor#readme"
+}
